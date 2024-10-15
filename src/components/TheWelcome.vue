@@ -75,6 +75,9 @@ const unitConverter = () => {
             and inches.
           </li>
           <li>
+            Volume conversions between gallons, litres.
+          </li>
+          <li>
             All conversions are performed in real-time, ensuring quick and
             accurate results.
           </li>
